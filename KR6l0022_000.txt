@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿毘曇五法行經
+#+DATE: 2015-08-30 20:50:49.478936
+#+PROPERTY: JUAN 0
