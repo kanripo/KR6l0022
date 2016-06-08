@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:49.278578
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:28
 #+TITLE: 阿毘曇五法行經
 #+PROPERTY: CBETA_ID T28n1557
 #+PROPERTY: ID KR6l0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1557
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0022_T_000-0998a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0022_T_001-0998a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1557¶
-
- 《阿毘曇五法行經》¶
+No. 1557¶
+《阿毘曇五法行經》¶
 ¶
 後漢安息三藏安世高譯¶
 
