@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:49.676942
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:28
 #+TITLE: 阿毘曇五法行經
 #+PROPERTY: CBETA_ID T28n1557
 #+PROPERTY: ID KR6l0022
